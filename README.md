@@ -9,3 +9,6 @@ This script can be used to extract images from Little Red Note （小红书）by
 2. Log into your account
 3. Clone repository
 4. Run xhsScrapper.py inside the repository folder
+- Examples on how to run:
+-   python xhsScrapper.py food 10
+-   python xhsScrapper.py 室内设计 20
